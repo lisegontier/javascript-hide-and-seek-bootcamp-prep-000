@@ -1,5 +1,5 @@
 function getFirstSelector(selector) {
-  var el = document.querySelector(`.${selector}`);
+  var el = document.querySelector(".selector");
   return el;
 }
 
