@@ -1,5 +1,5 @@
 function getFirstSelector(selector) {
-  var el = element.querySelector(`.${selector}`);
+  var el = document.querySelector("element");
 }
 
 function nestedTarget() {
